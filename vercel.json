@@ -8,5 +8,6 @@
         "buildCommand": "pnpm run build"
       }
     }
-  ]
+  ],
+  "buildCommand": "next build"
 }
