@@ -8,7 +8,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className="trancy-zh-CN">
+    <html lang="en">
       <body className={`${inter.className} antialiased`}>
         {children}
         <Analytics />
